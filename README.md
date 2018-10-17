@@ -7,3 +7,5 @@ Augmented reality is taking away more and more foot, with the aim of enriching t
 When a visitor enters a museum, the AR can become the means to show the work in its context, provide important details to the user and allow the visualization of related works of art, creating real emotional paths.
 The museum becomes, therefore, a real toy in scale 1:1 and the objects are no longer considered "relics" but assume a well-defined form thanks to their contextualization.
 The target audience includes all age groups, involving both adults and children. And it is precisely in this area that augmented reality is proposed as a great help for the educational mission of the museums.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
